@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'capybara',             '3.33.0'
+gem 'cucumber',             '5.1.0'
+gem 'httparty',             '0.18.1'
+gem 'json-schema',          '2.8.1'
+gem 'monetize',             '1.9.4'
+gem 'pry',                  '0.11.3'
+gem 'report_builder',       '1.8'
+gem 'rspec',                '3.9.0'
+gem 'selenium-webdriver'

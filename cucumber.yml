@@ -1,0 +1,8 @@
+default: -p no-source -p color -p pretty -p chrome --format json --out=results/cucumber_json.json --publish-quiet
+
+no-source: --no-source
+color: --color
+pretty: --format pretty
+dot: --format progress
+chrome: BROWSER=chrome
+chrome_headless: BROWSER=chrome_headless -p pretty -p color -p no-source

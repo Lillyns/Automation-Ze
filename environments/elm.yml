@@ -1,0 +1,30 @@
+#### Login ####
+age_validation:     "//*[@id='age-gate-button-yes']"
+btn_enter:          "//*[@id='welcome-button-sign-in']"
+email_field:        "//*[@id='login-mail-input-email']"
+password_field:     "//*[@id='login-mail-input-password']"
+sign_in:            "//*[@id='login-mail-button-sign-in']"
+
+
+### search ###
+search_vinhos:      "//*[@id='category-Vinhos']/div"
+select_produt:      "//div[@class='css-94zwmk-productsSingleListContainer']/a[1]"
+total_price:        "//*[@id='product-total-price']"
+plus_button:        "//*[@id='plus-button']"
+amount_products:    "//div[@class='css-1btd8s8-containerAddCustomButton']/div[2]"
+minus_button:       "//*[@id='minus-button']"
+add_buttom:         "//*[@id='add-product']"
+
+
+### bag ###
+bag_unit_price:      "//*[@id='product-card-price']"
+bag_amount_products: "//*[@id='product-amount']"
+bag_total_price:     "//*[@id='subtotal']"
+bag_shipping:        "//*[@id='shipping-price']"
+bag_total_pay:       "//*[@id='total-price']"
+bag_clear:           "//*[@id='product-delete-button']"
+bag_confirm:         "//*[@id='primary-modal-button']"
+
+
+
+

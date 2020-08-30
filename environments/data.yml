@@ -1,0 +1,5 @@
+url:            'https://www.ze.delivery/'
+products_url:   'https://www.ze.delivery/produtos'
+email:          'liliane.testeze@mailinator.com'
+password:       '123Mudar'
+base_uri:       'https://api.openweathermap.org'
